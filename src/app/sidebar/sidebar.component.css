@@ -1,0 +1,17 @@
+
+aside {
+    height: calc(100vh - var(--header-height));
+    width: var(--sidebar-width);
+    background-color: rgb(119, 210, 235);
+    position: fixed;
+    text-align: center;
+  }
+  
+  aside p {
+    margin: 0;
+  }
+  
+   button {
+    align-items: center;
+  }
+  
